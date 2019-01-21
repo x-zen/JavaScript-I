@@ -11,12 +11,12 @@
 
 **Note:**You could also run `node /assignments/<fileName>` and see what prints in your terminal.
 
-* Once you finish the exercises in each file, commit your code, and push it to your fork. 
+* Once you finish the exercises in each file, commit your code, and push it to your fork.
 
 ### Objects
 To better understand objects, you really just need to write more of them. The [objects.js](assignments/objects.js) file contains several challenges centered around a theme of interns starting at a new job. The Human Resources team needs information about the new hires. Use your new found object skills answer vital questions for HR.
 
-* Read the instructions found within the file carefully to finish the challenges. 
+* Read the instructions found within the file carefully to finish the challenges.
 * Complete each challenge presented before moving on to Arrays.
 
 ### Arrays
